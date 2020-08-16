@@ -1,0 +1,5 @@
+main: com.mzimu.systemshop.Main
+version: 0.0.4
+name: ZMSystemShop
+commands:
+  zmss:

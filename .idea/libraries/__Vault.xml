@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="[前置]Vault">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../[前置]Vault.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

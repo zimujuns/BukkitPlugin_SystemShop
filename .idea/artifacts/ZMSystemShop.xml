@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZMSystemShop">
+    <output-path>D:/Minecraft/Spigot-1.12.2/plugins</output-path>
+    <root id="archive" name="ZMSystemShop.jar">
+      <element id="module-output" name="ZMSystemShop" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+    </root>
+  </artifact>
+</component>
